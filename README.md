@@ -1,5 +1,5 @@
 # FrenchOven-MobileAPP
-A menu card card for a restaurant created using flutter on Android Studio.
+A static menu card card for a restaurant created using flutter on Android Studio.
 The apk file can be downloaded and run on any Android Mobile.
 
 App image: 
